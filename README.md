@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byjorge24&label=Profile%20views&color=0e75b6&style=flat" alt="byjorge24" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=byjorge24" alt="byjorge24" /></a> </p>
+</a> </p>
 
 <p align="left"> <a href="https://twitter.com/byjorge__" target="blank"><img src="https://img.shields.io/twitter/follow/byjorge__?logo=twitter&style=for-the-badge" alt="byjorge__" /></a> </p>
 
@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=byjorge24&show_icons=true&locale=en" alt="byjorge24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=byjorge24&" alt="byjorge24" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=byjorge24" alt="byjorge24" />

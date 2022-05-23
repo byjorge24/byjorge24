@@ -5,8 +5,6 @@
 
 </a> </p>
 
-<p align="left"> <a href="https://twitter.com/byjorge__" target="blank"><img src="https://img.shields.io/twitter/follow/byjorge__?logo=twitter&style=for-the-badge" alt="byjorge__" /></a> </p>
-
 - 🌱 I’m currently learning **Java and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/byjorge24?tab=repositories](https://github.com/byjorge24?tab=repositories)

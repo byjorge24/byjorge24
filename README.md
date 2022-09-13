@@ -35,3 +35,4 @@
 <h4 align="left">TROPHIES</h4>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=byjorge24" alt="byjorge24" /></a>
+</p>

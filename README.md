@@ -27,6 +27,5 @@
 <p>
 &nbsp;
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=byjorge24&show_icons=true&locale=en" alt="byjorge24" />
-
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=byjorge24&" alt="byjorge24" />
 </p>

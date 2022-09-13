@@ -26,4 +26,10 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=byjorge24&show_icons=true&locale=en" alt="byjorge24" /></p>
 
+</br>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=byjorge24&" alt="byjorge24" /></p>
+
+</br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=byjorge24" alt="byjorge24" /></a> </p>

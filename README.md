@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Java and Python**
 
+- :computer: Currently working at **INDRA**
+
 - 👨‍💻 All of my projects are available at [https://github.com/byjorge24?tab=repositories](https://github.com/byjorge24?tab=repositories)
 
 - 📫 How to reach me **jorgeof30@gmail.com**

@@ -26,10 +26,12 @@
 
 <h4 align="left">STATS</h4>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=byjorge24&show_icons=true&locale=en" alt="byjorge24" />  
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=byjorge24&show_icons=true&locale=en" alt="byjorge24" /></p>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=byjorge24&" alt="byjorge24" />  
+<h4 align="left">STREAK</h4>
+
+<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=byjorge24&" alt="byjorge24" /></p>
 
 <h4 align="left">TROPHIES</h4>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=byjorge24" alt="byjorge24" /></a>  
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=byjorge24" alt="byjorge24" /></a></p>

@@ -5,13 +5,13 @@
 
 </a> </p>
 
-- 🌱 I’m currently learning **Java and Python**
+- :pencil: I’m currently learning **Java and Python**
 
 - :computer: Currently working at **INDRA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/byjorge24?tab=repositories](https://github.com/byjorge24?tab=repositories)
+- :file_folder:💻 All of my projects are available at [https://github.com/byjorge24?tab=repositories](https://github.com/byjorge24?tab=repositories)
 
-- 📫 How to reach me **jorgeof30@gmail.com**
+- :mailbox: How to reach me **jorgeof30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

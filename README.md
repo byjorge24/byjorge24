@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byjorge24&label=Profile%20views&color=0e75b6&style=flat" alt="byjorge24" /> </p>
 
-<a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=byjorge24&label=Profile%20views"/></a>
-
 </a> </p>
 
 - :seedling: I’m currently learning **Java and Python**

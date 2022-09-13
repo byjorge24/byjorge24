@@ -28,5 +28,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=byjorge24&theme=dark)](https://git.io/streak-stats)
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=byjorge24" alt="byjorge24" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=dark)](https://github.com/byjorge24/github-profile-trophy)
 

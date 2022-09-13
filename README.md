@@ -5,7 +5,7 @@
 
 </a> </p>
 
-- :pencil: I’m currently learning **Java and Python**
+- :seedling: I’m currently learning **Java and Python**
 
 - :computer: Currently working at **INDRA**
 

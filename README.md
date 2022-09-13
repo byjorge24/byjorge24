@@ -23,6 +23,8 @@
 <h3 align="left"> My LinkedIn </h3>
 <p align="left">
   [![LinkedIn][linkedin-shield]][linkedin-url]
+  [linkedin-url]: https://linkedin.com/in/othneildrew
+  [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -27,6 +27,7 @@
 
 <a href="https://github.com/byjorge24/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=byjorge24&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jorge's github stats" /></a>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=byjorge24&theme=github-green-purple&border_radius=10&date_format=%5BY%20%5DM%20j&background=000000)](https://git.io/streak-stats)
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=byjorge24" alt="byjorge24" /></a> </p>
 

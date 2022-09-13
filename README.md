@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byjorge24&label=Profile%20views&color=0e75b6&style=flat" alt="byjorge24" /> </p>
 
-<p align="left"> <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a> </p>
+<p align="left"> <img alt="views" title="GitHub profile views" src="https://freshidea.com/byjorge24/app/DenverCoder1-profile-views"/></a> </p>
 
 </a> </p>
 

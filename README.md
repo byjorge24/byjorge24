@@ -18,13 +18,7 @@
 <a href="https://twitter.com/byjorge__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="byjorge__" height="30" width="40" /></a>
 <a href="https://instagram.com/jorgeof24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jorgeof24" height="30" width="40" /></a>
 <a href="https://discord.gg/ByJorge#4183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ByJorge#4183" height="30" width="40" /></a>
-</p>
-
-<h3 align="left"> My LinkedIn </h3>
-<p align="left">
-  [![LinkedIn][linkedin-shield]][linkedin-url]
-  [linkedin-url]: https://linkedin.com/in/othneildrew
-  [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+<a href="https://es.linkedin.com/in/jorge-olivares-ferrer-136a46230?trk=public_profile_browsemap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Jorge Olivares Ferrer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

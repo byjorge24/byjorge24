@@ -9,7 +9,7 @@
 
 - :computer: Currently working at **INDRA**
 
-- :file_folder:💻 All of my projects are available at [https://github.com/byjorge24?tab=repositories](https://github.com/byjorge24?tab=repositories)
+- :file_folder: All of my projects are available at [https://github.com/byjorge24?tab=repositories](https://github.com/byjorge24?tab=repositories)
 
 - :mailbox: How to reach me **jorgeof30@gmail.com**
 

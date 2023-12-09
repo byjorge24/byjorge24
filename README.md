@@ -15,9 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/byjorge__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="byjorge__" height="30" width="40" /></a>
-<a href="https://instagram.com/jorgeof24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jorgeof24" height="30" width="40" /></a>
-<a href="https://discord.gg/ByJorge#4183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ByJorge#4183" height="30" width="40" /></a>
 <a href="https://es.linkedin.com/in/jorge-olivares-ferrer-136a46230?trk=public_profile_browsemap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jorge Olivares Ferrer" height="30" width="40" /></a>
 </p>
 

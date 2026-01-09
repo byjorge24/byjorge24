@@ -5,9 +5,11 @@
 
 </a> </p>
 
-- :seedling: I’m currently learning **Java and Python**
+- :seedling: I’m currently learning **Dynamics 365 Business Central**
 
-- :computer: Currently working at **INDRA**
+- :office: Currently working at **INDRA**
+  
+- :computer: Dynamics 365 Business Central Developer
 
 - :file_folder: All of my projects are available at [https://github.com/byjorge24?tab=repositories](https://github.com/byjorge24?tab=repositories)
 
